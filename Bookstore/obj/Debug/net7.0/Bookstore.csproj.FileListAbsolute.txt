@@ -1,0 +1,17 @@
+E:\Prj2023\Bookstore\bin\Debug\net7.0\Bookstore.exe
+E:\Prj2023\Bookstore\bin\Debug\net7.0\Bookstore.deps.json
+E:\Prj2023\Bookstore\bin\Debug\net7.0\Bookstore.runtimeconfig.json
+E:\Prj2023\Bookstore\bin\Debug\net7.0\Bookstore.dll
+E:\Prj2023\Bookstore\bin\Debug\net7.0\Bookstore.pdb
+E:\Prj2023\Bookstore\bin\Debug\net7.0\MySqlConnector.dll
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.csproj.AssemblyReference.cache
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.AssemblyInfoInputs.cache
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.AssemblyInfo.cs
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.csproj.CoreCompileInputs.cache
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.csproj.CopyComplete
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.dll
+E:\Prj2023\Bookstore\obj\Debug\net7.0\refint\Bookstore.dll
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.pdb
+E:\Prj2023\Bookstore\obj\Debug\net7.0\Bookstore.genruntimeconfig.cache
+E:\Prj2023\Bookstore\obj\Debug\net7.0\ref\Bookstore.dll
